@@ -5,7 +5,7 @@ function Navigation() {
 
         <div className="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-4 bg-white border-bottom ">
             <Navbar.Brand href="#" className="d-flex md-auto justify-content-end">
-                <div style={{ width: "3rem", height: "3rem",paddingTop: "0.3rem",marginRight: "0.3rem"}}>
+                <div style={{ width: "3rem", height: "3rem", paddingTop: "0.3rem", marginRight: "0.3rem" }}>
                     <Image
                         alt=""
                         src="/bootstrap-logo.svg"
